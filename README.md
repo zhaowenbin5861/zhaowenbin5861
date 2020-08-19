@@ -1,4 +1,6 @@
 ### Hi there 👋
+你好游客，欢迎来到知识追寻者的github; 知识追寻者致力于分享技术文章，构建知识图谱，帮助更多的人在自学的道路上更加轻松； 如果你爱java后端技术，就关注我吧，在我的公众号上可以学习到各种技术文章， 主流面试题； 当然只学技术还远远不够，我还是你们的心灵人生导师；在公众号上我还会分享一些技术以外的文章，丰富你的人生阅历；增加知识量， 强化大脑，开拓视野，成为一个独立思考的人；
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhaowenbin5861&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=zhaowenbin5861&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
